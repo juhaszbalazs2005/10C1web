@@ -1,0 +1,20 @@
+body {
+    background-color:#F09838;
+    color: #A03028;
+    width: 70%;
+}
+
+#táblázat{
+    width: 800pt;
+    background-color: #FFECC0;
+}
+
+#vörös {
+    text-align: center;
+}
+
+#bal{
+    float: left;
+    text-align: center;
+    width: 150pt;
+}
